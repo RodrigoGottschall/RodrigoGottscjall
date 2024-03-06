@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **Kotlin**
 
-- 💬 Ask me about **react, react-native**
+- 💬 Ask me about: **react, react-native**
 
-- 📫 How to reach me **ro_criscuolo@hotmail.com**
+- 📫 How to reach me: **ro_criscuolo@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
