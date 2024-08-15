@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rodrigo - a fullstack mobile developer!</h1>
 <h3 align="center">I'm interested in development new apps through new languages! Feel free to browse my repositories.</h3>
 
-- 🌱 I’m currently learning **Kotlin**
+- 🌱 I’m currently learning **Flutter**
 
 - 💬 Ask me about: **react, react-native**
 
